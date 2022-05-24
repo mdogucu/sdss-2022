@@ -1,0 +1,57 @@
+
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+*{
+  font-family: 'Lora';
+}
+
+/*Title slide*/
+
+.title-slide{
+  font-family: 'Poppins';
+  background-size: cover;
+  color:whitesmoke;
+  background-color: #944d2b;
+}
+
+.title-slide .remark-slide-number{
+  display: none;
+}
+
+.title-slide .title{
+  font-size: 30px;
+}
+
+.cover-left{
+  float: left;
+  width: 50%;
+}
+
+.cover-right{
+  float: left;
+  width: 50%;
+}
+
+.title-slide, h1 {font-size: 27px;}
+.title-slide h2 {font-size: 22px;}
+.title-slide h3 {font-size: 18px;}
+
+/*end of title slide*/
+
+
+
+.pull-left{
+  float: left;
+  width: 48%;
+}
+.pull-right{
+  float: right;
+  width: 48%;
+}
+
+.font50{font-size: 50px;}
+
+
+.title-slide a{color:whitesmoke}
