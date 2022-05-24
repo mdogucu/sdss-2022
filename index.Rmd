@@ -44,6 +44,9 @@ knitr::include_graphics("img/open-door.jpg")
 
 ---
 
+class: middle
+
+
 ## Statistics
 
 
@@ -56,13 +59,14 @@ knitr::include_graphics("img/open-door.jpg")
 
 - 4.6 percent of people with a disability have a vision disability with blindness or serious difficulty seeing even when wearing glasses. 
 
-- 5.9 percent of people with a disability are deaf or have serious difficulty hearing
-
 
 
 [CDC Infographic on disability](https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html)
 
 ---
+
+class: middle
+
 
 ## ADA
 
@@ -86,21 +90,25 @@ Analysis and Presentation, Foundational considerations, Knowledge
 
 ---
 
+class: middle
+
 ## Accessibility as Career Preparation
 
 [Accessible Technology Skills Gap Report  by The Partnership on Employment & Accessible Technology (PEAT), 2018](https://www.peatworks.org/infographic-the-accessible-technology-skills-gap/)
 
 84% of industry respondents say it is important or very important to their company to hire developers and designers with accessible technology skills.
 
---
+
 
 60% said it was difficult or very difficult for their organization to find job candidates with accessibility skills. 0% said it was easy or very easy.
 
---
+
 
 41% of companies consider accessibility certification credentials as a differentiator in hiring.
 
 ---
+
+class: middle
 
 ## Curriculum Goal
 
@@ -108,6 +116,8 @@ As educators, we have to ensure that the current and the next generation of data
 
 
 ---
+
+class: middle
 
 ## Learning Objectives
 
@@ -172,6 +182,7 @@ fig
 
 ---
 
+class: middle
 
 ### Color Blindness Simulator 
 
@@ -229,6 +240,7 @@ palette.colors(palette = "Okabe-Ito")
 
 ---
 
+class: middle
 
 
 ```{r eval=FALSE, echo=TRUE}
@@ -355,6 +367,8 @@ sonify::sonify(1:10)
 ```
 
 ---
+
+class: middle
 
 ## Data Tactualization
 
