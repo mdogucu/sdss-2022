@@ -327,7 +327,7 @@ class: middle
 ### Data Verbalization -  Automated
 
 
-```{r}
+```{r echo=TRUE}
 BrailleR::VI(example_barplot)
 ```
 
