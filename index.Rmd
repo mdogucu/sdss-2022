@@ -452,9 +452,9 @@ JooYoung Seo
 
 <i class="fa-solid fa-envelope" title="Email Icon"></i> [jseo1005@illinois.edu](mailto:jseo1005@illinois.edu)
 
-<i class="fa-brands fa-twitter" title="Twitter Icon"></i> [@seo_jooyoung](https://twitter.com/seo_jooyoung)
+<i class="fa-brands fa-twitter" title="Twitter Icon"></i> [seo_jooyoung](https://twitter.com/seo_jooyoung)
 
-<i class="fa-brands fa-github" title="GitHub Icon"></i> [@jooyoungseo](https://github.com/jooyoungseo)
+<i class="fa-brands fa-github" title="GitHub Icon"></i> [jooyoungseo](https://github.com/jooyoungseo)
 
 ]
 
@@ -464,9 +464,9 @@ Mine Dogucu
 
 <i class="fa-solid fa-envelope" title="Email Icon"></i> [mdogucu@uci.edu](mailto:mdogucu@uci.edu)
 
-<i class="fa-brands fa-twitter" title="Twitter Icon"></i> [@MineDogucu](https://twitter.com/MineDogucu)
+<i class="fa-brands fa-twitter" title="Twitter Icon"></i> [MineDogucu](https://twitter.com/MineDogucu)
 
-<i class="fa-brands fa-github" title="GitHub Icon"></i> [@mdogucu](https://github.com/mdogucu)
+<i class="fa-brands fa-github" title="GitHub Icon"></i> [mdogucu](https://github.com/mdogucu)
 
 ]
 
