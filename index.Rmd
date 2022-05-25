@@ -362,7 +362,7 @@ Examples:
 
 R example:
 
-```{r eval=FALSE}
+```{r eval=FALSE, echo=TRUE}
 sonify::sonify(1:10)
 ```
 
@@ -374,7 +374,6 @@ class: middle
 
 Data tactulization refers to making data visualization in a form so that it can be touchable by fingers. 
 
---
 
 
 
